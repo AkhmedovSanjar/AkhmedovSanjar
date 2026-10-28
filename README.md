@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Sanjar
 
-<!--
-**AkhmedovSanjar/AkhmedovSanjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C# / .NET developer**
 
-Here are some ideas to get you started:
+I build APIs and developer tools with ASP.NET Core and Entity Framework Core. Here you’ll find my public projects and hands-on .NET examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [GitInsight](https://github.com/AkhmedovSanjar/GitInsight): GitHub dashboards and analytics with .NET and React.
+- [AdminX](https://github.com/AkhmedovSanjar/AdminX): Admin interfaces generated from Entity Framework Core models.
+- [EFCore10DeepDive](https://github.com/AkhmedovSanjar/EFCore10DeepDive): EF Core examples covering JSON mapping, query filters, and vector search.
+- [OrderFlow](https://github.com/AkhmedovSanjar/OrderFlow): An event-driven .NET prototype using RabbitMQ and MassTransit. Work in progress.
+- [SpeechRecognitionApp](https://github.com/AkhmedovSanjar/SpeechRecognitionApp): A Windows voice-command and speech-synthesis demo.
+- [MediatRPattern](https://github.com/AkhmedovSanjar/MediatRPattern): A book API with commands, queries, and notifications.
