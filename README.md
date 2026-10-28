@@ -12,3 +12,8 @@ I build APIs and developer tools with ASP.NET Core and Entity Framework Core. He
 - [OrderFlow](https://github.com/AkhmedovSanjar/OrderFlow): An event-driven .NET prototype using RabbitMQ and MassTransit. Work in progress.
 - [SpeechRecognitionApp](https://github.com/AkhmedovSanjar/SpeechRecognitionApp): A Windows voice-command and speech-synthesis demo.
 - [MediatRPattern](https://github.com/AkhmedovSanjar/MediatRPattern): A book API with commands, queries, and notifications.
+- [Orzu](https://orzugo.com): Local place and service discovery with search, categories, and maps.
+
+## Work
+
+I work with [Silk Road Professionals](https://github.com/Silk-Road-Professionals) and [Benevia](https://github.com/beneviasoftware).
